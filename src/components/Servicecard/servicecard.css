@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+.service-card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #031923;
+    cursor: pointer;
+    margin-top: 35px;
+    position: relative;
+}
+.service-image{
+    width: 218px;
+    height: 218px;
+    background-color: #031923;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.service-img{
+    width: 123px;
+    height: 77px;
+   
+}
+.service-image img{
+    background-color: #031923;
+}
+
+.service-contents{
+    width: 421.03px;
+    height: 502.72px;
+    background-color: #031923;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    z-index: -1;
+}
+.service-contents h4{
+    font-family: 'Lato', sans-serif;
+    font-size:30px ;
+    font-weight: 700;
+    color: #03A4ED;
+    background-color: #031923;
+}
+.service-contents h4:hover{
+    text-decoration: #03A4ED 1.5px underline;
+}
+.service-contents h6{
+    font-family: 'Lato', sans-serif;
+    font-size:24px ;
+    font-weight: 400;
+    background-color: #031923;
+    color: #FFFFFF;
+}
+.service-contents h6:hover{
+    text-decoration: #03A4ED 1.5px underline;
+}
+.service-contents p{
+    font-family: 'Lato', sans-serif;
+    font-size:25px ;
+    font-weight: 400;
+    color: #03A4ED;
+    background-color: #031923;
+}
+.service-contents p:hover{
+    text-decoration: #03A4ED 1.5px underline;
+}

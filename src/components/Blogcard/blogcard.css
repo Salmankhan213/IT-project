@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.blog-card{
+    width: 419px;
+    height: 404px;
+    
+}
+.blog-card:hover{
+    border: 2px solid #03A4ED;
+    cursor: pointer;
+}
+.card-img-top{
+    width: 100%;
+    height: 60%;
+    object-fit: cover;
+}
+.blog-card-body{
+    width: 100%;
+    height: 40%;
+    background-color: #031923;
+    padding: 0 16px 0 16px;
+}
+.blog-card-body h5{
+ font-family: 'Lato', sans-serif;
+ font-size: 24px;
+ font-weight: 700;
+ color: #03A4ED;
+ background: none;
+
+}
+.blog-card-body h6{
+    color: #D9D9D9;
+    font-size: 16px;
+    font-weight: 400; 
+    background: none;
+
+}
+.blog-card-body p{
+    color: #cbcbcb;
+    font-size: 14px;
+    font-weight: 400;
+    background: none;
+}
+.blog-card-icon{
+    display: flex;
+    justify-content: space-between;
+    background: none;
+}
+.blog-card-icon span{
+    background-color: #031923;
+}
+.blog-card-icon span img{
+    background-color: #031923;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,668 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+.header-1-contents{
+   margin-top: 120px;
+}
+.header-1-contents h3{
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    font-size: 48px;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+}
+.header-1-contents h3:hover{
+    text-decoration: #03A4ED 3px underline;
+}
+.header-1-contents h3 span{
+    color: #00A5FF;
+}
+.header-1-contents h1{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.header-1-contents h1 span{
+    color: #00A5FF;
+}
+.header-1-contents p{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+}
+.header-1-contents p:hover{
+    text-decoration: #03A4ED 1.5px underline;
+}
+.header-1-contents button{
+    width: 206px;
+    height: 57px;
+    color:#FFFFFF;
+    background-color: #00A5FF;
+    border-radius: 87.5px;
+    
+
+}
+.header-1-img{
+    width: 831px;
+    height: 616px;
+
+}
+.header-1-img img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.header-2-contents h1{
+ font-size: 48px;
+ font-family: 'Lato', sans-serif;
+ color: #FFFFFF;
+ font-weight: 800;
+ position: relative;
+
+}
+.header-2-contents h1 span{
+    color: #00A5FF;
+}
+.header-2-contents h1:hover{
+    text-decoration: #03A4ED 2.5px underline;
+}
+.header-2-contents h1::before{
+    content: "";
+    position: absolute;
+    width: 20%;
+    height: 3px;
+    left: 0;
+    bottom: -8px;
+    background-color: #03A4ED;
+
+}
+.header-2-contents p{
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    letter-spacing: 0.5px;
+}
+
+
+
+.header-3-contents h1{
+    font-size: 48px;
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-weight: 800;
+    position: relative;
+   
+   }
+   .header-3-contents h1 span{
+       color: #00A5FF;
+   }
+   .header-3-contents h1:hover{
+       text-decoration: #03A4ED 2.5px underline;
+   }
+   .header-3-contents h1::before{
+       content: "";
+       position: absolute;
+       width: 20%;
+       height: 3px;
+       left: 0;
+       bottom: -8px;
+       background-color: #03A4ED;
+   
+   }
+   .header-3-contents p{
+       font-size: 20px;
+       font-family: 'Lato', sans-serif;
+       color: #FFFFFF;
+       letter-spacing: 0.5px;
+   }
+
+
+   .header-4 {
+    width:1298px;
+    height:349px;
+    margin: 190px 0 40px 0;
+    border: 3px solid #00A5E9;
+    text-align: center;
+    border-radius: 122px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   }
+.header-4-contents h1{
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    
+}
+.header-4-contents h1:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+.header-4-contents button{
+    width:299px;
+    height:76px;
+    color: #FFFFFF;
+    font-size: 30px;
+    background: #000000;
+    border: 4px solid #03A4ED;
+    border-radius: 83px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+
+}
+
+
+
+
+
+.header-5-contents h6{
+    color: #FFFFFF;
+    font-size: 20px ;
+    font-weight: 400 ;
+    margin-left: 10px;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    letter-spacing: 3px;
+    
+}
+.header-5-contents h6:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+.header-5-contents h6::before{
+    content: "";
+    position: absolute;
+    width: 22px;
+    height: 2px;
+    top: 13px;
+    left: -30px;
+    background-color: #03A4ED;
+}
+.header-5-contents h5{
+    font-size: 25px;
+    font-weight:600;
+    font-family: 'Lato', sans-serif;
+    color: #00A5FF;
+    letter-spacing: 2px;
+
+}
+.header-5-contents h5:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+.header-5-contents h2{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 3px;
+    
+}
+.header-5-contents h2:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+
+
+
+
+.member-card-header{
+    margin: 16px 0 16px 0;
+}
+
+
+
+
+.header-6{
+  margin-top: 128px
+}
+.header-6-contents h6{
+    color: #FFFFFF;
+    font-size: 20px ;
+    font-weight: 400 ;
+    margin-left: 10px;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    cursor: pointer;
+    letter-spacing: 3px;
+    
+}
+.header-6-contents h6:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+.header-6-contents h6::before{
+    content: "";
+    position: absolute;
+    width: 22px;
+    height: 2px;
+    top: 13px;
+    left: -30px;
+    background-color: #03A4ED;
+}
+.header-6-contents h5{
+    font-size: 25px;
+    font-weight:600;
+    font-family: 'Lato', sans-serif;
+    color: #00A5FF;
+    letter-spacing: 2px;
+
+}
+.header-6-contents h5:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+.header-6-contents h2{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 3px;
+    cursor: pointer;
+    
+}
+.header-6-contents h2:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+
+
+
+.header-7-slider{
+    display: flex;
+    flex-direction: column;
+}
+.slider-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider-icons .active{
+    width: 16.99px;
+    height: 16.98px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.slider-icons span{
+    width: 16.99px;
+    height: 16.98px;
+    display: inline-block;
+    background-color: #908e8e ;
+    border-radius: 50%;
+    cursor: pointer;
+}
+span.active::before{
+    background-color: #000000;
+}
+.slider-icons span:hover{
+    border: 4px solid #03A4ED;
+}
+
+.slider-contents p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    
+}
+.slider-contents span{
+    /* width: 160.65px;
+    height: 53.31px; */
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #03A4ED;
+    cursor: pointer;
+}
+.icon-2{
+    width: 166px;
+    height: 188px;
+    
+}
+.icon-2 img{
+    cursor: pointer;
+}
+
+
+
+.header-8-contents h6{
+    color: #FFFFFF;
+    font-size: 20px ;
+    font-weight: 400 ;
+    margin-left: 10px;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    letter-spacing: 3px;
+    cursor: pointer;
+    
+}
+.header-8-contents h6:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+.header-8-contents h6::before{
+    content: "";
+    position: absolute;
+    width: 22px;
+    height: 2px;
+    top: 13px;
+    left: -30px;
+    background-color: #03A4ED;
+}
+.header-8-contents h5{
+    font-size: 25px;
+    font-weight:600;
+    font-family: 'Lato', sans-serif;
+    color: #00A5FF;
+    letter-spacing: 2px;
+    cursor: pointer;
+
+}
+.header-8-contents h5:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+.header-8-contents h2{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 3px;
+    cursor: pointer;
+    
+}
+.header-8-contents h2:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+
+
+
+.header-9{
+    margin: 90px 0 50px 0;
+}
+
+
+
+
+.header-10-contents h6{
+    color: #FFFFFF;
+    font-size: 20px ;
+    font-weight: 400 ;
+    margin-left: 10px;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    letter-spacing: 3px;
+    cursor: pointer;
+    
+}
+.header-10-contents h6:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+.header-10-contents h6::before{
+    content: "";
+    position: absolute;
+    width: 22px;
+    height: 2px;
+    top: 13px;
+    left: -30px;
+    background-color: #03A4ED;
+}
+.header-10-contents h2{
+    font-weight: 700;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    color: #03A4ED;
+    letter-spacing: 3px;
+    cursor: pointer;
+}
+.header-10-contents h2:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+
+
+
+
+.header-11-img{
+    width: 354.65px;
+    height: 354.6px;
+}
+
+.header-11-contents{
+    margin-top: 130px;
+}
+.header-11-contents p{
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.header-11-contents p:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+.header-11-contents h6{
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.header-11-contents h6:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+
+.header-11-icons{
+    display: flex;
+    justify-content: end;
+    
+
+}
+.header-11-icons img{
+    width: 91.48px;
+    height: 91.48px;
+    border: 2px solid #00A5E9;
+    margin-left: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+
+.header-12{
+    margin-top: 120px;
+}
+.header-12-contents h6{
+    color: #FFFFFF;
+    font-size: 20px ;
+    font-weight: 400 ;
+    margin-left: 10px;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    letter-spacing: 3px;
+    cursor: pointer;
+    
+}
+.header-12-contents h6:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+.header-12-contents h6::before{
+    content: "";
+    position: absolute;
+    width: 22px;
+    height: 2px;
+    top: 13px;
+    left: -30px;
+    background-color: #03A4ED;
+}
+.header-12-contents h2{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    color: #03A4ED;
+    letter-spacing: 3px;
+    cursor: pointer;
+    
+}
+.header-12-contents h2:hover{
+    text-decoration: #00A5E9 2px underline;
+}
+
+
+
+.header-13-content h1{
+font-family: 'Lato', sans-serif;
+color: #03A4ED;
+font-size: 48px;
+font-weight: 800;
+
+}
+.header-13-content h1:hover{
+    text-decoration: #00A5E9 1.5px underline;
+    cursor: pointer;
+
+}
+.header-13-content h6{
+font-family: 'Lato', sans-serif;
+color: #FFFFFF;
+font-size: 20px;
+font-weight: 400;
+}
+.header-13-content h6:hover{
+    text-decoration: #00A5E9 1.5px underline;
+    cursor: pointer;
+
+}
+.header-13-text-1{
+    display: flex;
+    justify-content: space-between;
+}
+.header-13-text-1 p{
+    font-size: 22px;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+}
+.header-13-text-1 p:hover{
+    text-decoration: #00A5E9 1.5px underline;
+    cursor: pointer;
+}
+.header-13-text-1 span{
+    font-size: 60px;
+    font-weight: 700;
+    color: #00A5E9;
+    font-family: 'Lato', sans-serif;
+}
+.header-13-text-1 span:hover{
+    text-decoration: #00A5E9 1.5px underline;
+    cursor: pointer;
+}
+
+.header-13-text-2{
+    display: flex;
+    justify-content: space-between;
+}
+.header-13-text-2 p{
+    font-size: 22px;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    
+}
+.header-13-text-2 p:hover{
+    text-decoration: #00A5E9 1.5px underline;
+    cursor: pointer;
+}
+.header-13-text-2 span{
+    font-size: 60px;
+    font-weight: 700;
+    color: #00A5E9;
+    font-family: 'Lato', sans-serif;
+}
+.header-13-text-2 span:hover{
+    text-decoration: #00A5E9 1.5px underline;
+    cursor: pointer;
+}
+
+
+.header-14-text{
+    margin: 80px 0 80px 0;
+}
+.header-14-text h1{
+  text-align: center;
+  font-size: 48px;
+  font-weight: 800;
+  font-family: 'Lato', sans-serif;
+  color: #00A5E9;
+
+}
+.header-14-text h1:hover{
+    text-decoration: #00A5E9 3px underline;
+    cursor: pointer;
+}
+
+
+
+
+
+.header-15-list{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    margin-top: 46px;
+}
+.header-15-list a{
+    text-decoration: none;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    color :#FFFFFF;
+    position: relative;
+}
+.header-15-list a:hover{
+    text-decoration: 2px #03A4ED underline;
+}
+.active::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -8px;
+    background-color: #03A4ED;
+
+}
+.active{
+    color: #03A4ED !important;
+}
+
+
+
+
+.header-16-top{
+    margin: 16px 0 100px 0;
+}
+.header-16-text h6{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    color :#FFFFFF;
+
+}
+.header-16-text h6:hover{
+    text-decoration: #00A5E9 2.5px underline;
+    cursor: pointer;
+}
+
+.header-16-icons{
+    width: 85.24px;
+    height: 91.42px;
+    object-fit: cover;
+    overflow: hidden;
+}
+.header-16-icons:hover{
+    border: 3px solid #00A5FF;
+    cursor: pointer;
+}
